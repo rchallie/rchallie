@@ -3,4 +3,4 @@
 I'm currently working on Ft_containers 👨‍💻 ! <br>
 If you need anything like a bit of help for a project 🗣️ , explanations of my codes 💬 , or want to have a beer 🍻, you can find me on slack (rchallie) or send me an email : rchallie@student.42.fr
 </p>
-Have fun !
+Have fun ! Welcome to new students of 2020!
