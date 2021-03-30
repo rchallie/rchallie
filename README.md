@@ -3,4 +3,4 @@
 I'm currently working on push_swap 👨‍💻 ! <br>
 If you need anything like a bit of help for a project 🗣️ , explanations of my codes 💬 , or want to have a beer 🍻, you can find me on slack (rchallie) or send me an email : rchallie@student.42.fr
 </p>
-Have fun ! Welcome to new students of 2020!
+Have fun ! Welcome to new students of 2021!
